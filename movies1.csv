@@ -1,0 +1,31 @@
+name,length,genre,pg,year,num_hall,seats,vip
+The dark knight,152,drama,13,2008,1,40,no
+Pulp fiction,154,drama,R,1994,2,40,no
+The godfather,175,drama,R,1972,3,40,no
+Interstellar,169,drama,13,2014,4,40,no
+Seven,127,drama,R,1995,5,40,no
+Gladiator,155,drama,R,2000,6,60,no
+Inception,148,action,13,2010,7,60,no
+Django unchained,165,drama,R,2012,8,60,no
+Gravity,91,drama,13,2013,9,60,no
+The good the bad and the ugly,178,adventure,R,1996,10,30,yes
+The martian,144,adventure,13,2015,11,30,yes
+Whiplash,106,drama,R,2014,12,30,yes
+La la land,128,comedy,13,2016,13,30,yes
+Goodfellas,145,drama,R,1990,14,30,yes
+Memento,113,mystery,R,2000,15,30,yes
+Reservoir dogs,99,crime,R,1992,16,30,yes
+Requiem for a dream ,102,drama,R,2000,17,30,yes
+Inglourious basterds,153,drama,R,2009,18,30,yes
+Good will hunting,126,romance,R,1997,19,30,yes
+The hateful eight,168,crime,R,2015,20,60,no
+Million dollar baby,132,sport,R,2004,21,60,no
+The truman show,103,comedy,R,1998,22,60,no
+Before sunrise,101,romance,R,1995,23,60,no
+The best offer,131,crime,R,2013,24,60,no
+The avengers,143,adventure,R,2012,25,60,no
+Minions1,91,kids,R,2015,26,60,no
+Minions2,87,kids,R,2022,27,60,no
+Shrek,90,kids,R,2001,28,60,no
+Shrek2,105,kids,R,2004,29,60,no
+The lion king ,89,kids,R,1994,30,60,no
