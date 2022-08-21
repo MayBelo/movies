@@ -116,3 +116,10 @@ screening_movie(selected_movie)
 number_of_tickets = int(input("how many tickets would you like?"))
 tickets(selected_movie,number_of_tickets)
 add_movie()
+
+# good job! the code is very clear and written well
+# you are using classes well, modules and files too
+# it would be nice to add saving (we will do it later with database)
+# it would be nice to add management of how many tickets left - so each screening
+# should have tickets sold, and you should check how many tickets left.
+# but overall - nicely done!

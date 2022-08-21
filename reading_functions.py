@@ -14,6 +14,7 @@ def read_screening_from_file():
                                   thursday=templist[5],
                                   friday=templist[6],
                                   saturday=templist[7])
+            # better to do some logic here not just read strings to Class
             all_screening.append(screening)
     return all_screening
 
@@ -31,6 +32,7 @@ def read_movies_from_file():
                           year=templist[4],
                           hall=hall,
                           screening=read_screening_from_file())
+                        # you are adding all screenings to each movie? not a good idea :)
             all_movies.append(movie)
     return all_movies
 
